@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T06:13:09.023Z",
+  "generatedAt": "2026-06-23T06:43:32.257Z",
   "lastWeek": "2026-06-15",
   "weeklyVolume": [
     {
@@ -1640,8 +1640,8 @@
     "volCov": 3175701719,
     "rev": 934894,
     "fees": 8354760,
-    "burn7d": 370000,
-    "burnPctOfFees": 0.12975836529116336,
+    "burn7d": 366000,
+    "burnPctOfFees": 0.1266032776524999,
     "annualBurn": 19553571.42857143,
     "deflationRate": 0.03145524236204133
   },
