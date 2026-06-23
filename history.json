@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T02:55:49.150Z",
+  "generatedAt": "2026-06-23T03:08:21.239Z",
   "lastWeek": "2026-06-15",
   "weeklyVolume": [
     {
@@ -1297,90 +1297,6 @@
   ],
   "weeklyBurn": [
     {
-      "week": "2025-09-01",
-      "ongoing": 0,
-      "oneTime": 0,
-      "cumulativeUni": 0
-    },
-    {
-      "week": "2025-09-08",
-      "ongoing": 0,
-      "oneTime": 0,
-      "cumulativeUni": 0
-    },
-    {
-      "week": "2025-09-15",
-      "ongoing": 0,
-      "oneTime": 0,
-      "cumulativeUni": 0
-    },
-    {
-      "week": "2025-09-22",
-      "ongoing": 0,
-      "oneTime": 0,
-      "cumulativeUni": 0
-    },
-    {
-      "week": "2025-09-29",
-      "ongoing": 0,
-      "oneTime": 0,
-      "cumulativeUni": 0
-    },
-    {
-      "week": "2025-10-06",
-      "ongoing": 0,
-      "oneTime": 0,
-      "cumulativeUni": 0
-    },
-    {
-      "week": "2025-10-13",
-      "ongoing": 0,
-      "oneTime": 0,
-      "cumulativeUni": 0
-    },
-    {
-      "week": "2025-10-20",
-      "ongoing": 0.001293964116484858,
-      "oneTime": 0,
-      "cumulativeUni": 0
-    },
-    {
-      "week": "2025-10-27",
-      "ongoing": 0,
-      "oneTime": 0,
-      "cumulativeUni": 0
-    },
-    {
-      "week": "2025-11-03",
-      "ongoing": 0.00010000000474974513,
-      "oneTime": 0,
-      "cumulativeUni": 0
-    },
-    {
-      "week": "2025-11-10",
-      "ongoing": 0,
-      "oneTime": 0,
-      "cumulativeUni": 0
-    },
-    {
-      "week": "2025-11-17",
-      "ongoing": 0,
-      "oneTime": 0,
-      "cumulativeUni": 0
-    },
-    {
-      "week": "2025-11-24",
-      "ongoing": 0,
-      "oneTime": 0,
-      "cumulativeUni": 0
-    },
-    {
-      "week": "2025-12-01",
-      "ongoing": 0,
-      "oneTime": 0,
-      "cumulativeUni": 0
-    },
-    {
       "week": "2025-12-08",
       "ongoing": 0,
       "oneTime": 0,
@@ -1550,90 +1466,6 @@
     }
   ],
   "weeklySupply": [
-    {
-      "week": "2025-09-01",
-      "effective": 999950423.3804002,
-      "treasury": 371260163.29,
-      "circulating": 628690260.0904002
-    },
-    {
-      "week": "2025-09-08",
-      "effective": 999950423.3804002,
-      "treasury": 369669472.29,
-      "circulating": 630280951.0904002
-    },
-    {
-      "week": "2025-09-15",
-      "effective": 999950423.3804002,
-      "treasury": 369669472.29,
-      "circulating": 630280951.0904002
-    },
-    {
-      "week": "2025-09-22",
-      "effective": 999950423.3804002,
-      "treasury": 369669472.29,
-      "circulating": 630280951.0904002
-    },
-    {
-      "week": "2025-09-29",
-      "effective": 999950423.3804002,
-      "treasury": 369669472.29,
-      "circulating": 630280951.0904002
-    },
-    {
-      "week": "2025-10-06",
-      "effective": 999950423.3804002,
-      "treasury": 369669472.29,
-      "circulating": 630280951.0904002
-    },
-    {
-      "week": "2025-10-13",
-      "effective": 999950423.3804002,
-      "treasury": 369669472.29,
-      "circulating": 630280951.0904002
-    },
-    {
-      "week": "2025-10-20",
-      "effective": 999950423.3791063,
-      "treasury": 369669472.29,
-      "circulating": 630280951.0891063
-    },
-    {
-      "week": "2025-10-27",
-      "effective": 999950423.3791063,
-      "treasury": 369669472.2901,
-      "circulating": 630280951.0890063
-    },
-    {
-      "week": "2025-11-03",
-      "effective": 999950423.3790063,
-      "treasury": 369669472.2901,
-      "circulating": 630280951.0889063
-    },
-    {
-      "week": "2025-11-10",
-      "effective": 999950423.3790063,
-      "treasury": 369669472.2901,
-      "circulating": 630280951.0889063
-    },
-    {
-      "week": "2025-11-17",
-      "effective": 999950423.3790063,
-      "treasury": 369669472.2901,
-      "circulating": 630280951.0889063
-    },
-    {
-      "week": "2025-11-24",
-      "effective": 999950423.3790063,
-      "treasury": 369669472.2901,
-      "circulating": 630280951.0889063
-    },
-    {
-      "week": "2025-12-01",
-      "effective": 999950423.3790063,
-      "treasury": 369669472.2901,
-      "circulating": 630280951.0889063
-    },
     {
       "week": "2025-12-08",
       "effective": 999950423.3790063,
