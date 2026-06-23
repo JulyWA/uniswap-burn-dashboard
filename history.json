@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T04:54:09.293Z",
+  "generatedAt": "2026-06-23T05:46:03.481Z",
   "lastWeek": "2026-06-15",
   "weeklyVolume": [
     {
@@ -1640,13 +1640,13 @@
     "volCov": 3175701719,
     "rev": 934894,
     "fees": 8354760,
-    "burn7d": 366000,
-    "burnPctOfFees": 0.13010786665326113
+    "burn7d": 370000,
+    "burnPctOfFees": 0.131529810551111
   },
   "now": {
-    "effective": 893770420.0329479,
+    "effective": 893766420.0329479,
     "treasury": 272134858.4790704,
-    "circulating": 621635561.5538775,
-    "cumulative": 106180003.34605838
+    "circulating": 621631561.5538775,
+    "cumulative": 106184003.34605838
   }
 }
