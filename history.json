@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T07:00:08.128Z",
+  "generatedAt": "2026-06-23T07:32:51.531Z",
   "lastWeek": "2026-06-15",
   "weeklyVolume": [
     {
@@ -1641,7 +1641,7 @@
     "rev": 934894,
     "fees": 8354760,
     "burn7d": 366000,
-    "burnPctOfFees": 0.1266032776524999,
+    "burnPctOfFees": 0.12616520402740475,
     "annualBurn": 19553571.42857143,
     "deflationRate": 0.03145524236204133
   },
