@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T03:14:55.183Z",
+  "generatedAt": "2026-06-25T03:20:09.998Z",
   "lastWeek": "2026-06-15",
   "hasSupplyCurve": true,
   "weeklyVolume": [
@@ -1527,7 +1527,7 @@
     "maxSupply": 400000000,
     "headroom": 63998942.5499953,
     "price": 1.3,
-    "marketCap": 422239635
+    "marketCap": 421894126
   },
   "target": {
     "annualPct": 0.04,
