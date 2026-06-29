@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-25T07:13:14.079Z",
-  "lastWeek": "2026-06-15",
+  "generatedAt": "2026-06-29T01:00:33.011Z",
+  "lastWeek": "2026-06-22",
   "hasSupplyCurve": true,
   "weeklyVolume": [
     {
@@ -518,6 +518,10 @@
     {
       "week": "2026-06-15",
       "volume": 4518810528
+    },
+    {
+      "week": "2026-06-22",
+      "volume": 4615223555
     }
   ],
   "weeklyFees": [
@@ -1294,6 +1298,12 @@
       "fees": 1732659,
       "revenue": 594730,
       "burnBudget": 389040
+    },
+    {
+      "week": "2026-06-22",
+      "fees": 1443731,
+      "revenue": 509843,
+      "burnBudget": 324937
     }
   ],
   "weeklySupply": [
@@ -1506,36 +1516,41 @@
       "week": "2026-06-15",
       "net": 336469170.4500047,
       "netTrend": 336469170.4500047
+    },
+    {
+      "week": "2026-06-22",
+      "net": 336001057.4500047,
+      "netTrend": 336001057.4500047
     }
   ],
   "kpi": {
-    "vol7d": 4293015612,
-    "fees7d": 1466546,
-    "rev7d": 512029,
-    "burnBudget7d": 332347,
-    "netDeflationRate": 0.07672902449966426,
+    "vol7d": 4615223555,
+    "fees7d": 1443731,
+    "rev7d": 509843,
+    "burnBudget7d": 324937,
+    "netDeflationRate": 0.07672783236623681,
     "netChange4w": -1904946,
     "streakMonths": 32,
     "streakAsOf": "2026-04-30",
-    "burnBudgetCake": 248020.14925373133,
-    "burnShareOfFees": 0.2266188718253638
+    "burnBudgetCake": 242490.29850746266,
+    "burnShareOfFees": 0.22506755067252834
   },
   "now": {
     "net": 336001057.4500047,
     "onchainNet": 341932466.4756727,
-    "circulating": 323636745.6466613,
+    "circulating": 323641774.046017,
     "maxSupply": 400000000,
     "headroom": 63998942.5499953,
     "price": 1.34,
-    "marketCap": 432712097,
+    "marketCap": 435084365,
     "rawTotalSupply": 4618112383.751051,
     "rawDead": 4276179917.275378
   },
   "feeSplit": {
-    "fees": 10249579,
-    "lp": 6749669,
-    "burn": 2280055,
-    "treasury": 1219855
+    "fees": 9932049,
+    "lp": 6538232,
+    "burn": 2207752,
+    "treasury": 1186065
   },
   "target": {
     "annualPct": 0.04,
